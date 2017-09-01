@@ -1,0 +1,6 @@
+Dec 31, 2016 2:56:37 AM tester_project_G0_0 setup
+INFO: Program started
+Dec 31, 2016 2:56:37 AM tester_project_G0_0 setupArduino
+WARNING: COM Port was not found!
+Dec 31, 2016 2:56:39 AM LoginThread$3 run
+INFO: Software closed

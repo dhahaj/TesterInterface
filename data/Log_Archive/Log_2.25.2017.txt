@@ -1,0 +1,250 @@
+Feb 25, 2017 5:17:48 PM swing_test setup
+INFO: Program started
+Feb 25, 2017 5:18:13 PM LoginThread logout
+INFO: 
+User DMH logged off
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Feb 25, 2017 5:39:43 PM swing_test setup
+INFO: Program started
+Feb 25, 2017 5:41:43 PM swing_test setup
+INFO: Program started
+Feb 25, 2017 5:43:23 PM swing_test setup
+INFO: Program started
+Feb 25, 2017 5:43:42 PM swing_test setup
+INFO: Program started
+Feb 25, 2017 5:43:44 PM LoginThread$3 run
+INFO: Software closed
+Feb 25, 2017 5:44:11 PM swing_test setup
+INFO: Program started
+Feb 25, 2017 5:44:49 PM swing_test setup
+INFO: Program started
+Feb 25, 2017 5:46:54 PM swing_test setup
+INFO: Program started
+Feb 25, 2017 5:51:26 PM swing_test setup
+INFO: Program started
+Feb 25, 2017 5:51:29 PM LoginThread$3 run
+INFO: Software closed
+Feb 25, 2017 5:54:24 PM swing_test setup
+INFO: Program started
+Feb 25, 2017 5:54:31 PM LoginThread$3 run
+INFO: Software closed
+Feb 25, 2017 5:55:31 PM swing_test setup
+INFO: Program started
+Feb 25, 2017 5:55:33 PM LoginThread$3 run
+INFO: Software closed
+Feb 25, 2017 7:10:38 PM swing_test setup
+INFO: Program started
+Feb 25, 2017 7:16:32 PM swing_test setup
+INFO: Program started
+Feb 25, 2017 7:17:13 PM swing_test setup
+INFO: Program started
+Feb 25, 2017 7:20:26 PM swing_test setup
+INFO: Program started
+Feb 25, 2017 7:20:34 PM LoginThread logout
+INFO: 
+User DMH logged off
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Feb 25, 2017 7:22:10 PM swing_test setup
+INFO: Program started
+Feb 25, 2017 7:24:03 PM swing_test setup
+INFO: Program started
+Feb 25, 2017 7:24:11 PM LoginThread logout
+INFO: 
+User DMH logged off
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Feb 25, 2017 7:29:53 PM swing_test setup
+INFO: Program started
+Feb 25, 2017 7:30:49 PM swing_test setup
+INFO: Program started
+Feb 25, 2017 7:33:22 PM swing_test setup
+INFO: Program started
+Feb 25, 2017 7:33:45 PM swing_test setup
+INFO: Program started
+Feb 25, 2017 7:35:42 PM swing_test setup
+INFO: Program started
+Feb 25, 2017 7:35:53 PM LoginThread logout
+INFO: 
+User DMH logged off
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Feb 25, 2017 7:36:49 PM swing_test setup
+INFO: Program started
+Feb 25, 2017 7:37:58 PM swing_test setup
+INFO: Program started
+Feb 25, 2017 7:40:48 PM swing_test setup
+INFO: Program started
+Feb 25, 2017 7:40:50 PM LoginThread$3 run
+INFO: Software closed
+Feb 25, 2017 7:44:29 PM swing_test setup
+INFO: Program started
+Feb 25, 2017 7:44:30 PM LoginThread$3 run
+INFO: Software closed
+Feb 25, 2017 7:45:17 PM swing_test setup
+INFO: Program started
+Feb 25, 2017 7:45:18 PM LoginThread$3 run
+INFO: Software closed
+Feb 25, 2017 7:48:41 PM swing_test setup
+INFO: Program started
+Feb 25, 2017 7:49:50 PM swing_test setup
+INFO: Program started
+Feb 25, 2017 7:50:03 PM LoginThread logout
+INFO: 
+User DMH logged off
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Feb 25, 2017 7:52:36 PM swing_test setup
+INFO: Program started
+Feb 25, 2017 7:52:42 PM LoginThread logout
+INFO: 
+User DMH logged off
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Feb 25, 2017 7:55:28 PM swing_test setup
+INFO: Program started
+Feb 25, 2017 7:55:34 PM LoginThread logout
+INFO: 
+User DMH logged off
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Feb 25, 2017 7:55:56 PM swing_test setup
+INFO: Program started
+Feb 25, 2017 7:56:06 PM LoginThread logout
+INFO: 
+User DMH logged off
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Feb 25, 2017 7:56:54 PM swing_test setup
+INFO: Program started
+Feb 25, 2017 7:57:33 PM swing_test setup
+INFO: Program started
+Feb 25, 2017 7:57:37 PM LoginThread logout
+INFO: 
+User DMH logged off
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Feb 25, 2017 7:57:45 PM LoginThread$3 run
+INFO: Software closed
+Feb 25, 2017 7:58:17 PM swing_test setup
+INFO: Program started
+Feb 25, 2017 7:58:22 PM LoginThread logout
+INFO: 
+User DMH logged off
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Feb 25, 2017 7:58:27 PM LoginThread logout
+INFO: 
+User DMH logged off
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Feb 25, 2017 7:58:36 PM LoginThread logout
+INFO: 
+User TCM logged off
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Feb 25, 2017 7:58:39 PM LoginThread$3 run
+INFO: Software closed
+Feb 25, 2017 8:00:38 PM swing_test setup
+INFO: Program started
+Feb 25, 2017 8:02:37 PM swing_test setup
+INFO: Program started
+Feb 25, 2017 8:03:26 PM swing_test setup
+INFO: Program started
+Feb 25, 2017 8:07:22 PM swing_test setup
+INFO: Program started
+Feb 25, 2017 8:09:03 PM swing_test setup
+INFO: Program started
+Feb 25, 2017 8:10:00 PM swing_test setup
+INFO: Program started
+Feb 25, 2017 8:13:26 PM swing_test setup
+INFO: Program started
+Feb 25, 2017 8:13:44 PM LoginThread logout
+INFO: 
+User TCM logged off
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Feb 25, 2017 8:13:50 PM LoginThread$3 run
+INFO: Software closed
+Feb 25, 2017 8:14:32 PM swing_test setup
+INFO: Program started
+Feb 25, 2017 8:14:44 PM LoginThread logout
+INFO: 
+User TCM logged off
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Feb 25, 2017 8:15:50 PM swing_test setup
+INFO: Program started
+Feb 25, 2017 8:15:54 PM LoginThread logout
+INFO: 
+User TCM logged off
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Feb 25, 2017 8:16:01 PM LoginThread$3 run
+INFO: Software closed
+Feb 25, 2017 8:24:02 PM swing_test setup
+INFO: Program started
+Feb 25, 2017 8:24:04 PM LoginThread$3 run
+INFO: Software closed
+Feb 25, 2017 8:25:57 PM swing_test setup
+INFO: Program started
+Feb 25, 2017 8:32:45 PM swing_test setup
+INFO: Program started
+Feb 25, 2017 8:33:27 PM swing_test setup
+INFO: Program started
+Feb 25, 2017 8:34:50 PM swing_test setup
+INFO: Program started
+Feb 25, 2017 8:39:07 PM swing_test setup
+INFO: Program started
+Feb 25, 2017 8:40:04 PM swing_test setup
+INFO: Program started
+Feb 25, 2017 8:40:55 PM swing_test setup
+INFO: Program started
+Feb 25, 2017 8:40:56 PM LoginThread$3 run
+INFO: Software closed

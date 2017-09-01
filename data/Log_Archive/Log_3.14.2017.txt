@@ -1,0 +1,240 @@
+Mar 14, 2017 8:23:32 AM swing_test setup
+INFO: Program started
+Mar 14, 2017 8:25:44 AM swing_test setup
+INFO: Program started
+Mar 14, 2017 8:27:03 AM swing_test setup
+INFO: Program started
+Mar 14, 2017 8:27:09 AM LoginThread$3 run
+INFO: Software closed
+Mar 14, 2017 8:28:36 AM swing_test setup
+INFO: Program started
+Mar 14, 2017 8:28:41 AM LoginThread$3 run
+INFO: Software closed
+Mar 14, 2017 8:29:48 AM swing_test setup
+INFO: Program started
+Mar 14, 2017 8:29:50 AM LoginThread$3 run
+INFO: Software closed
+Mar 14, 2017 8:32:24 AM swing_test setup
+INFO: Program started
+Mar 14, 2017 8:32:26 AM LoginThread$3 run
+INFO: Software closed
+Mar 14, 2017 8:32:40 AM swing_test setup
+INFO: Program started
+Mar 14, 2017 8:32:43 AM LoginThread$3 run
+INFO: Software closed
+Mar 14, 2017 8:35:22 AM swing_test setup
+INFO: Program started
+Mar 14, 2017 8:35:26 AM LoginThread$3 run
+INFO: Software closed
+Mar 14, 2017 8:38:13 AM swing_test setup
+INFO: Program started
+Mar 14, 2017 8:38:17 AM LoginThread$3 run
+INFO: Software closed
+Mar 14, 2017 8:38:38 AM swing_test setup
+INFO: Program started
+Mar 14, 2017 8:38:41 AM LoginThread$3 run
+INFO: Software closed
+Mar 14, 2017 8:39:28 AM swing_test setup
+INFO: Program started
+Mar 14, 2017 8:39:30 AM LoginThread$3 run
+INFO: Software closed
+Mar 14, 2017 8:40:45 AM swing_test setup
+INFO: Program started
+Mar 14, 2017 8:40:47 AM LoginThread$3 run
+INFO: Software closed
+Mar 14, 2017 8:41:01 AM swing_test setup
+INFO: Program started
+Mar 14, 2017 8:41:17 AM LoginThread logout
+INFO: 
+User DMH logged off
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Mar 14, 2017 8:42:01 AM swing_test setup
+INFO: Program started
+Mar 14, 2017 8:42:04 AM LoginThread$3 run
+INFO: Software closed
+Mar 14, 2017 8:42:25 AM swing_test setup
+INFO: Program started
+Mar 14, 2017 8:42:27 AM LoginThread$3 run
+INFO: Software closed
+Mar 14, 2017 8:43:59 AM swing_test setup
+INFO: Program started
+Mar 14, 2017 8:44:02 AM LoginThread$3 run
+INFO: Software closed
+Mar 14, 2017 8:44:32 AM swing_test setup
+INFO: Program started
+Mar 14, 2017 8:44:34 AM LoginThread$3 run
+INFO: Software closed
+Mar 14, 2017 8:52:29 AM swing_test setup
+INFO: Program started
+Mar 14, 2017 8:52:33 AM LoginThread$3 run
+INFO: Software closed
+Mar 14, 2017 9:55:22 AM swing_test setup
+INFO: Program started
+Mar 14, 2017 9:55:24 AM LoginThread$3 run
+INFO: Software closed
+Mar 14, 2017 9:56:39 AM swing_test setup
+INFO: Program started
+Mar 14, 2017 9:56:42 AM LoginThread$3 run
+INFO: Software closed
+Mar 14, 2017 9:57:51 AM swing_test setup
+INFO: Program started
+Mar 14, 2017 9:57:54 AM LoginThread$3 run
+INFO: Software closed
+Mar 14, 2017 9:58:24 AM swing_test setup
+INFO: Program started
+Mar 14, 2017 9:58:29 AM LoginThread$3 run
+INFO: Software closed
+Mar 14, 2017 10:06:36 AM swing_test setup
+INFO: Program started
+Mar 14, 2017 10:06:40 AM LoginThread$3 run
+INFO: Software closed
+Mar 14, 2017 10:32:04 AM swing_test setup
+INFO: Program started
+Mar 14, 2017 10:32:06 AM LoginThread$3 run
+INFO: Software closed
+Mar 14, 2017 10:32:32 AM swing_test setup
+INFO: Program started
+Mar 14, 2017 10:32:34 AM LoginThread$3 run
+INFO: Software closed
+Mar 14, 2017 10:33:06 AM swing_test setup
+INFO: Program started
+Mar 14, 2017 10:33:09 AM LoginThread$3 run
+INFO: Software closed
+Mar 14, 2017 10:34:54 AM swing_test setup
+INFO: Program started
+Mar 14, 2017 10:34:56 AM LoginThread$3 run
+INFO: Software closed
+Mar 14, 2017 10:35:52 AM swing_test setup
+INFO: Program started
+Mar 14, 2017 10:36:28 AM swing_test setup
+INFO: Program started
+Mar 14, 2017 10:37:56 AM swing_test setup
+INFO: Program started
+Mar 14, 2017 10:38:46 AM swing_test setup
+INFO: Program started
+Mar 14, 2017 10:39:46 AM LoginThread$3 run
+INFO: Software closed
+Mar 14, 2017 10:40:34 AM swing_test setup
+INFO: Program started
+Mar 14, 2017 10:40:48 AM LoginThread$3 run
+INFO: Software closed
+Mar 14, 2017 10:41:04 AM swing_test setup
+INFO: Program started
+Mar 14, 2017 10:41:06 AM LoginThread$3 run
+INFO: Software closed
+Mar 14, 2017 10:42:52 AM swing_test setup
+INFO: Program started
+Mar 14, 2017 10:42:54 AM LoginThread$3 run
+INFO: Software closed
+Mar 14, 2017 10:43:29 AM swing_test setup
+INFO: Program started
+Mar 14, 2017 10:43:31 AM LoginThread$3 run
+INFO: Software closed
+Mar 14, 2017 10:44:51 AM swing_test setup
+INFO: Program started
+Mar 14, 2017 10:44:53 AM LoginThread$3 run
+INFO: Software closed
+Mar 14, 2017 10:45:33 AM swing_test setup
+INFO: Program started
+Mar 14, 2017 10:45:35 AM LoginThread$3 run
+INFO: Software closed
+Mar 14, 2017 10:46:08 AM swing_test setup
+INFO: Program started
+Mar 14, 2017 10:46:13 AM LoginThread$3 run
+INFO: Software closed
+Mar 14, 2017 10:46:20 AM swing_test setup
+INFO: Program started
+Mar 14, 2017 10:46:22 AM LoginThread$3 run
+INFO: Software closed
+Mar 14, 2017 10:46:33 AM swing_test setup
+INFO: Program started
+Mar 14, 2017 10:46:34 AM LoginThread$3 run
+INFO: Software closed
+Mar 14, 2017 10:47:35 AM swing_test setup
+INFO: Program started
+Mar 14, 2017 10:47:36 AM LoginThread$3 run
+INFO: Software closed
+Mar 14, 2017 10:48:05 AM swing_test setup
+INFO: Program started
+Mar 14, 2017 10:48:06 AM LoginThread$3 run
+INFO: Software closed
+Mar 14, 2017 10:49:50 AM swing_test setup
+INFO: Program started
+Mar 14, 2017 10:49:53 AM LoginThread$3 run
+INFO: Software closed
+Mar 14, 2017 10:50:05 AM swing_test setup
+INFO: Program started
+Mar 14, 2017 10:50:07 AM LoginThread$3 run
+INFO: Software closed
+Mar 14, 2017 10:51:27 AM swing_test setup
+INFO: Program started
+Mar 14, 2017 10:51:28 AM LoginThread$3 run
+INFO: Software closed
+Mar 14, 2017 10:54:23 AM swing_test setup
+INFO: Program started
+Mar 14, 2017 10:54:25 AM LoginThread$3 run
+INFO: Software closed
+Mar 14, 2017 10:55:18 AM swing_test setup
+INFO: Program started
+Mar 14, 2017 10:55:19 AM LoginThread$3 run
+INFO: Software closed
+Mar 14, 2017 10:56:23 AM swing_test setup
+INFO: Program started
+Mar 14, 2017 10:56:24 AM LoginThread$3 run
+INFO: Software closed
+Mar 14, 2017 10:57:25 AM swing_test setup
+INFO: Program started
+Mar 14, 2017 10:57:26 AM LoginThread$3 run
+INFO: Software closed
+Mar 14, 2017 10:59:13 AM swing_test setup
+INFO: Program started
+Mar 14, 2017 10:59:14 AM LoginThread$3 run
+INFO: Software closed
+Mar 14, 2017 11:00:00 AM swing_test setup
+INFO: Program started
+Mar 14, 2017 11:00:01 AM LoginThread$3 run
+INFO: Software closed
+Mar 14, 2017 11:00:18 AM swing_test setup
+INFO: Program started
+Mar 14, 2017 11:00:19 AM LoginThread$3 run
+INFO: Software closed
+Mar 14, 2017 11:01:28 AM swing_test setup
+INFO: Program started
+Mar 14, 2017 11:01:30 AM LoginThread$3 run
+INFO: Software closed
+Mar 14, 2017 11:02:00 AM swing_test setup
+INFO: Program started
+Mar 14, 2017 11:02:02 AM LoginThread$3 run
+INFO: Software closed
+Mar 14, 2017 11:02:30 AM swing_test setup
+INFO: Program started
+Mar 14, 2017 11:02:32 AM LoginThread$3 run
+INFO: Software closed
+Mar 14, 2017 11:03:24 AM swing_test setup
+INFO: Program started
+Mar 14, 2017 11:03:27 AM LoginThread$3 run
+INFO: Software closed
+Mar 14, 2017 11:04:37 AM swing_test setup
+INFO: Program started
+Mar 14, 2017 11:04:38 AM LoginThread$3 run
+INFO: Software closed
+Mar 14, 2017 11:05:02 AM swing_test setup
+INFO: Program started
+Mar 14, 2017 11:05:03 AM LoginThread$3 run
+INFO: Software closed
+Mar 14, 2017 11:05:57 AM swing_test setup
+INFO: Program started
+Mar 14, 2017 11:05:58 AM LoginThread$3 run
+INFO: Software closed
+Mar 14, 2017 11:06:56 AM swing_test setup
+INFO: Program started
+Mar 14, 2017 11:06:57 AM LoginThread$3 run
+INFO: Software closed
+Mar 14, 2017 11:07:12 AM swing_test setup
+INFO: Program started
+Mar 14, 2017 11:07:13 AM LoginThread$3 run
+INFO: Software closed

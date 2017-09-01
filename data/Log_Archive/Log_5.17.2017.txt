@@ -1,0 +1,82 @@
+May 17, 2017 9:49:00 AM swing_test setup
+INFO: Program started
+May 17, 2017 9:49:34 AM LoginThread logout
+INFO: 
+User DMH logged off
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+May 17, 2017 9:50:46 AM LoginThread logout
+INFO: 
+User DMH logged off
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+May 17, 2017 9:52:20 AM swing_test setup
+INFO: Program started
+May 17, 2017 9:52:22 AM LoginThread$3 run
+INFO: Software closed
+May 17, 2017 9:56:23 AM swing_test setup
+INFO: Program started
+May 17, 2017 9:56:47 AM LoginThread logout
+INFO: 
+User DMH logged off
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+May 17, 2017 9:59:27 AM swing_test setup
+INFO: Program started
+May 17, 2017 9:59:56 AM LoginThread logout
+INFO: 
+User DMH logged off
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+May 17, 2017 9:59:59 AM swing_test setup
+INFO: Program started
+May 17, 2017 10:00:02 AM LoginThread$3 run
+INFO: Software closed
+May 17, 2017 10:04:47 AM swing_test setup
+INFO: Program started
+May 17, 2017 10:04:51 AM LoginThread$3 run
+INFO: Software closed
+May 17, 2017 10:15:21 AM swing_test setup
+INFO: Program started
+May 17, 2017 10:15:57 AM LoginThread logout
+INFO: 
+User DMH logged off
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+May 17, 2017 10:18:15 AM swing_test setup
+INFO: Program started
+May 17, 2017 10:18:20 AM LoginThread logout
+INFO: 
+User DMH logged off
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+May 17, 2017 3:06:06 PM swing_test setup
+INFO: Program started
+May 17, 2017 3:06:22 PM LoginThread logout
+INFO: 
+User DMH logged off
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+May 17, 2017 3:06:23 PM LoginThread$3 run
+INFO: Software closed

@@ -1,0 +1,12 @@
+Dec 01, 2016 5:43:57 PM tester_project_F1_1 setup
+INFO: Program started
+Dec 01, 2016 5:43:58 PM tester_project_F1_1 setupArduino
+WARNING: COM Port was not found!
+Dec 01, 2016 5:45:38 PM tester_project_F1_1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*

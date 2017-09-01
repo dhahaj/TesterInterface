@@ -1,0 +1,10 @@
+Aug 31, 2017 5:22:31 PM swing_test setup
+INFO: Program started
+Aug 31, 2017 5:22:42 PM LoginThread logout
+INFO: 
+User DMH logged off
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*

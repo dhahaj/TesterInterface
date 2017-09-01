@@ -1,0 +1,128 @@
+Jan 01, 2017 5:46:24 AM tester_project_G0_0 setup
+INFO: Program started
+Jan 01, 2017 5:46:25 AM tester_project_G0_0 setupArduino
+WARNING: COM Port was not found!
+Jan 01, 2017 5:46:43 AM tester_project_G0_0$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Jan 01, 2017 5:46:45 AM tester_project_G0_0 setup
+INFO: Program started
+Jan 01, 2017 5:47:19 AM tester_project_G0_0$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Jan 01, 2017 5:48:46 AM tester_project_G0_0 setup
+INFO: Program started
+Jan 01, 2017 5:49:24 AM tester_project_G0_0$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Jan 01, 2017 5:51:12 AM tester_project_G0_0 setup
+INFO: Program started
+Jan 01, 2017 5:53:05 AM tester_project_G0_0$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Jan 01, 2017 5:53:08 AM tester_project_G0_0 setup
+INFO: Program started
+Jan 01, 2017 5:55:05 AM tester_project_G0_0$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Jan 01, 2017 5:55:08 AM tester_project_G0_0 setup
+INFO: Program started
+Jan 01, 2017 5:55:31 AM tester_project_G0_0 testProcess
+INFO: EAX-300/500 tested 	
+Jan 01, 2017 5:57:42 AM tester_project_G0_0$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 1
+	*devices failed: 1
+	*total devices tested: 1
+	*devices programmed: 0
+	*
+Jan 01, 2017 5:57:44 AM tester_project_G0_0 setup
+INFO: Program started
+Jan 01, 2017 5:58:18 AM tester_project_G0_0 testProcess
+INFO: EAX-300/500 tested 	
+Jan 01, 2017 6:00:14 AM tester_project_G0_0 testProcess
+INFO: V40 tested 	
+Jan 01, 2017 6:01:48 AM tester_project_G0_0 setup
+INFO: Program started
+Jan 01, 2017 6:02:18 AM tester_project_G0_0 testProcess
+INFO: EAX-2500 tested 	
+Jan 01, 2017 6:13:59 AM tester_project_G0_0 setup
+INFO: Program started
+Jan 01, 2017 6:18:04 AM tester_project_G0_0 setup
+INFO: Program started
+Jan 01, 2017 6:19:10 AM tester_project_G0_0 setup
+INFO: Program started
+Jan 01, 2017 6:19:36 AM LoginThread$3 run
+INFO: Software closed
+Jan 01, 2017 6:20:50 AM tester_project_G0_0 setup
+INFO: Program started
+Jan 01, 2017 6:20:54 AM LoginThread$3 run
+INFO: Software closed
+Jan 01, 2017 6:21:46 AM tester_project_G0_0 setup
+INFO: Program started
+Jan 01, 2017 6:21:52 AM LoginThread$3 run
+INFO: Software closed
+Jan 01, 2017 6:22:40 AM tester_project_G0_0 setup
+INFO: Program started
+Jan 01, 2017 6:22:45 AM LoginThread$3 run
+INFO: Software closed
+Jan 01, 2017 6:22:56 AM tester_project_G0_0 setup
+INFO: Program started
+Jan 01, 2017 6:23:01 AM LoginThread$3 run
+INFO: Software closed
+Jan 01, 2017 12:02:31 PM swing_test setup
+INFO: Program started
+Jan 01, 2017 12:05:58 PM swing_test setup
+INFO: Program started
+Jan 01, 2017 12:06:08 PM LoginThread$3 run
+INFO: Software closed
+Jan 01, 2017 12:07:24 PM swing_test setup
+INFO: Program started
+Jan 01, 2017 12:08:42 PM swing_test setup
+INFO: Program started
+Jan 01, 2017 12:08:48 PM LoginThread$3 run
+INFO: Software closed
+Jan 01, 2017 12:09:15 PM swing_test setup
+INFO: Program started
+Jan 01, 2017 12:10:07 PM swing_test setup
+INFO: Program started
+Jan 01, 2017 12:10:22 PM swing_test setup
+INFO: Program started
+Jan 01, 2017 12:10:24 PM LoginThread$3 run
+INFO: Software closed
+Jan 01, 2017 12:13:39 PM swing_test setup
+INFO: Program started
+Jan 01, 2017 12:14:33 PM swing_test setup
+INFO: Program started
+Jan 01, 2017 12:14:34 PM LoginThread$3 run
+INFO: Software closed
+Jan 01, 2017 12:15:55 PM swing_test setup
+INFO: Program started
+Jan 01, 2017 12:15:59 PM LoginThread$3 run
+INFO: Software closed

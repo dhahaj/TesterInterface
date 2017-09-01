@@ -1,0 +1,95 @@
+{
+	"users": [{
+		"DMH": ["D853",
+		"true"]
+	},
+	{
+		"TCM": ["pinz",
+		"true"]
+	},
+	{
+		"SM": ["0123",
+		"true"]
+	},
+	{
+		"IGR": ["IZZYGLEN",
+		"false"]
+	},
+	{
+		"BTA": ["1419",
+		"false"]
+	},
+	{
+		"ASG": ["AG2012",
+		"false"]
+	},
+	{
+		"EMD": ["0138",
+		"false"]
+	},
+	{
+		"AHF": ["1964",
+		"false"]
+	},
+	{
+		"SRH": ["071520006",
+		"false"]
+	}],
+	"products": [{
+		"EAX300": "EAX300",
+		"version": "5.9"
+	},
+	{
+		"EAX500": ["EAX500",
+		"EAX503",
+		"EAX504",
+		"EAX505",
+		"EAX510",
+		"EAX513",
+		"EAX514",
+		"EAX515",
+		"EAX520",
+		"EAX523",
+		"EAX524",
+		"EAX525"],
+		"version": "5.9.1"
+	},
+	{
+		"EAX2500": ["EAX2500",
+		"EAX2503",
+		"EAX2504",
+		"EAX2505",
+		"EAX2510",
+		"EAX2513",
+		"EAX2514",
+		"EAX2520",
+		"EAX2523",
+		"EAX2524",
+		"EAX2544",
+		"EAX2545"],
+		"version": "7.3"
+	},
+	{
+		"EAX3500": "EAX3500",
+		"version": "A0"
+	},
+	{
+		"V40": ["V40xx00","V40xx03","V40xx04","V40xx10","V40xx13","V40xx14		"V40xx20","V40xx23",
+		"V40xx24"],
+		"version": "4.0"
+	}],
+	"paths": [{
+		"absolutepath": "C:/TesterInterface",
+		"datapath": "C:/TesterInterface/data",
+		"logarchive": "C:/TesterInterface/data/logs",
+		"logfile": "Log.txt",
+		"firmwarefolder": "C:/TesterInterface/data/firmware"
+	}],
+	"params": [{
+		"batchfile": "C:/TesterInterface/data/ipe.bat",
+		"port": "COM4",
+		"serialfile": "C:/TesterInterface/data/SERIALS.num",
+		"lastuser": "DMH",
+		"autologouttime": "10"
+	}]
+}

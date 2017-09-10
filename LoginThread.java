@@ -83,6 +83,16 @@ class LoginThread extends Thread implements Serializable {
   public void setCallback(loginInterface iface) {
     this.iface = iface;
   }
+  
+  public void doCallback(boolean eventType){
+	  if(iface!=null){
+		  if(eventType==loginInterface.LOGIN){
+			  iface.loggedIn(thisUser);
+		  } else if(eventType == loginInterface.LOGOUT)[
+			  iface.loggedOut(thisUser);
+		  ]
+	  }
+  }
 
   private ArrayList<User> getUsers() {
     return userArrayList;
@@ -156,7 +166,8 @@ class LoginThread extends Thread implements Serializable {
             //            Callback c = new Callback();
             //            loggedIn(thisUser);
             loginTimer.start();
-            if (this.iface!=null) iface.loggedIn (thisUser);
+            //if (this.iface!=null) iface.loggedIn (thisUser);
+			doCallback(loginInterface.LOGIN);
             //enableMenu(thisUser.isAdmin());
             break;
           } else { // Display a bad password notification
@@ -199,9 +210,9 @@ class LoginThread extends Thread implements Serializable {
 
   void logout() {
     if (loggedIn) {
-      if (iface!=null)
-        iface.loggedOut(thisUser);
-
+      // if (iface!=null)
+        // iface.loggedOut(thisUser);
+	  doCallback(loginInterface.LOGOUT);
       synchronized(this) {
         eax2500_swing_test.log.info("\nUser " + thisUser.getName()
           + " logged off\n\t*devices passed: "  + thisUser.getCount(PASSED_CNT)
@@ -248,9 +259,10 @@ class LoginThread extends Thread implements Serializable {
     loggedIn = false;
     running = false;  // Setting running to false ends the loop in run()
     if (DEBUG) System.out.println("LoginThread is stopping.");
-    if (iface!=null) {
-      iface.loggedOut(thisUser);
-    }
+    // if (iface!=null) {
+      // iface.loggedOut(thisUser);
+    // }
+	doCallback(loginInterface.LOGOUT);
   }
 
   /*public void addNewUser(String name, String pass, boolean admin) {
